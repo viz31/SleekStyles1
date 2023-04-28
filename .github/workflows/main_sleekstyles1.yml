@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'SleekStyles1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6496D9CAB9444DB68B21F482F05BF596 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_40475E59A4AC4DC9AB63F7C8631D1D5D }}
           package: .
